@@ -1,8 +1,6 @@
 # 1X Technologies: Revolutionizing Humanoid Robotics
 
-![1X Technologies Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvalinor.no%2Fen%2Finvestments%2Fhalodi-robotics%2F&psig=AOvVaw0zhmdH-t3oqeVbGNE1ed3C&ust=1726684710446000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDz4PnPyogDFQAAAAAdAAAAABAE) 
-
-[![1X Technologies Overview](https://img.youtube.com/vi/L_sXfPcHIAE/maxresdefault.jpg)](https://www.youtube.com/watch?v=L_sXfPcHIAE)
+![1X Technologies Demo](./assests/kitchen-assistance-demo---neo-beta-ezgif.com-video-to-gif-converter.gif)
 
 ## Table of Contents
 
@@ -188,7 +186,7 @@ For more details, visit the [1X Technologies website](https://www.1x.tech/) or r
 
 ## Acknowledgments
 
-This document was prepared by **Omar Alsadoon** as part of a **Challenge 1** to present a professional overview of 1X Technologies.
+This document was prepared by **Omar Alsadoon** as part of **Challenge 1** to present a professional overview of 1X Technologies.
 
 ---
 **End Of Document**
