@@ -178,19 +178,10 @@ These technologies enable robots to:
 
 ---
 
-## Contact Information
-
-For more details, visit the [1X Technologies website](https://www.1x.tech/) or reach out via their [contact page](https://www.1x.tech/contact).
-
----
-
 ## Acknowledgments
 
-<<<<<<< HEAD
-This document was prepared by **Omar Alsadoon** as part of a **Challenge 1** to present a professional overview of 1X Technologies.
-=======
 This document was prepared by **Omar Alsadoon** as part of **Challenge 1** to present a professional overview of 1X Technologies.
->>>>>>> 7656d2b133e2e968e976433dc0f7384aa756358d
+
 
 ---
 **End Of Document**
